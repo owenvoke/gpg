@@ -1,4 +1,43 @@
-## pxgamer's public key
+## pxgamer's public keys
+
+### PGP Public Key (ECC)
+
+([file](https://raw.githubusercontent.com/pxgamer/gpg/master/0F7BA063.asc))
+
+```txt
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+mFMEWfryqRMJKyQDAwIIAQEHAgMEkWO9Ou2GdyEj1rmGSZTfILrwoFfVWwXeIcu9
+4XKyO7g3ZDwvoS/WQVh1ozGKsm+3WGNAL0UeRgSGBwepUeu6gLQeT3dlbiBWb2tl
+IDxvd3ppZTEyM0BnbWFpbC5jb20+iJAEExMIADgWIQT2+RZcpY+P1CRwvfqPFeFM
+D3ugYwUCWfryqQIbIwULCQgHAgYVCAkKCwIEFgIDAQIeAQIXgAAKCRCPFeFMD3ug
+YwKmAP9tJ1kantqtjslz3f5ZP1laFhs1ohkFFj6NweRST2L53wD/SChV0Swdubz+
+K37uoAMgmuCp+nZLB4TKO7cl3W+1C2K0HHB4Z2FtZXIgPG93emllMTIzQGdtYWls
+LmNvbT6IkAQTEwgAOBYhBPb5Flylj4/UJHC9+o8V4UwPe6BjBQJZ+vLUAhsjBQsJ
+CAcCBhUICQoLAgQWAgMBAh4BAheAAAoJEI8V4UwPe6BjOD0A/0IMgfMwJySZ4Usd
+hgOU63HdTA1OzXBnmp3x3Q40yQZ4APsGpKEXUS7mUofwI6OVRWZyiu5sjgYXsdUH
+EbMKu/eUJbhXBFn68qkSCSskAwMCCAEBBwIDBA4aWVXyX0CgrRJm3zCv//W/aXpJ
+qL0J3fQlBEN85AsaAPa+3fBsVALaiveg/erDcnjzNZf82E/Z1Tie6E/6HBADAQgH
+iHgEGBMIACAWIQT2+RZcpY+P1CRwvfqPFeFMD3ugYwUCWfryqQIbDAAKCRCPFeFM
+D3ugYyrjAQCIDuvztdZFgN9SzNJ+pjlKK1F7/VlFnUyfuduAAYhJDAD+LgEfKfNB
+fTCwJs7pIarzAX3gEoXZHLmj2hBelA+54sM=
+=kn97
+-----END PGP PUBLIC KEY BLOCK-----
+```
+
+### PGP Fingerprint (ECC)
+
+```txt
+F6F9 165C A58F 8FD4 2470 BDFA 8F15 E14C 0F7B A063
+```
+
+### Importing
+
+```sh
+curl https://raw.githubusercontent.com/pxgamer/gpg/master/0F7BA063.asc | gpg --import
+```
+
+-----------------------
 
 ### PGP Public Key (RSA)
 
@@ -55,5 +94,7 @@ E055 D0EB E50D 4BFD 08D7 1E0D C6BC 2669 CFAF 7A01
 ```sh
 curl https://raw.githubusercontent.com/pxgamer/gpg/master/CFAF7A01.asc | gpg --import
 ```
+
+-----------------------
 
 > Owen Voke (pxgamer)
