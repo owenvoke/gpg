@@ -2,6 +2,8 @@
 
 The repository for my GPG public keys.
 
+-----------------------
+
 ## PGP Public Key (ECC)
 
 ([file](https://raw.githubusercontent.com/pxgamer/gpg/master/0F7BA063.asc))
