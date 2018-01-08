@@ -1,6 +1,8 @@
-## pxgamer's public keys
+# gpg
 
-### PGP Public Key (ECC)
+The repository for my GPG public keys.
+
+## PGP Public Key (ECC)
 
 ([file](https://raw.githubusercontent.com/pxgamer/gpg/master/0F7BA063.asc))
 
@@ -39,7 +41,7 @@ curl https://raw.githubusercontent.com/pxgamer/gpg/master/0F7BA063.asc | gpg --i
 
 -----------------------
 
-### PGP Public Key (RSA) - _REVOKED_
+## PGP Public Key (RSA) - _REVOKED_
 
 ([file](https://raw.githubusercontent.com/pxgamer/gpg/master/CFAF7A01.asc))
 
