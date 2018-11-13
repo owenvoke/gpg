@@ -10,7 +10,7 @@ The repository for my GPG public keys.
 
 ([Raw .asc file](0F7BA063.asc))
 
-```txt
+```asciiarmor
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
 mFMEWfryqRMJKyQDAwIIAQEHAgMEkWO9Ou2GdyEj1rmGSZTfILrwoFfVWwXeIcu9
@@ -33,7 +33,7 @@ fTCwJs7pIarzAX3gEoXZHLmj2hBelA+54sM=
 
 ### PGP Fingerprint (ECC)
 
-```txt
+```text
 F6F9 165C A58F 8FD4 2470 BDFA 8F15 E14C 0F7B A063
 ```
 
@@ -45,21 +45,28 @@ curl https://raw.githubusercontent.com/pxgamer/gpg/master/0F7BA063.asc | gpg --i
 
 -----------------------
 
-## PGP Public Key (RSA) - _REVOKED_
+## Revoked Keys
+
+<details>
+<summary>View Keys</summary>
+
+### PGP Public Key (RSA)
 
 ([Raw .asc file](CFAF7A01.asc))
 
-### PGP Fingerprint (RSA)
+**PGP Fingerprint (RSA)**
 
-```txt
+```text
 E055 D0EB E50D 4BFD 08D7 1E0D C6BC 2669 CFAF 7A01
 ```
 
-### Importing
+**Importing**
 
 ```sh
 curl https://raw.githubusercontent.com/pxgamer/gpg/master/CFAF7A01.asc | gpg --import
 ```
+
+</details>
 
 -----------------------
 
