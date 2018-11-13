@@ -47,9 +47,6 @@ curl https://raw.githubusercontent.com/pxgamer/gpg/master/0F7BA063.asc | gpg --i
 
 ## Revoked Keys
 
-<details>
-<summary>View Keys</summary>
-
 ### PGP Public Key (RSA)
 
 ([Raw .asc file](CFAF7A01.asc))
@@ -65,8 +62,6 @@ E055 D0EB E50D 4BFD 08D7 1E0D C6BC 2669 CFAF 7A01
 ```sh
 curl https://raw.githubusercontent.com/pxgamer/gpg/master/CFAF7A01.asc | gpg --import
 ```
-
-</details>
 
 -----------------------
 
