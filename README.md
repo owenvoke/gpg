@@ -2,7 +2,7 @@
 
 [![Keybase](https://img.shields.io/badge/keybase-@pxgamer-4c8eff.svg?style=flat-square)](https://keybase.io/pxgamer)
 
-The repository for my GPG public keys.
+GPG public key storage for Owen Voke (pxgamer).
 
 -----------------------
 
