@@ -47,20 +47,10 @@ curl https://raw.githubusercontent.com/pxgamer/gpg/master/F6F9165CA58F8FD42470BD
 
 ## Revoked Keys
 
-### PGP Public Key (RSA)
-
-([Raw .asc file](E055D0EBE50D4BFD08D71E0DC6BC2669CFAF7A01.asc))
-
-**PGP Fingerprint (RSA)**
+**PGP Fingerprint (RSA) ([Raw .asc file](E055D0EBE50D4BFD08D71E0DC6BC2669CFAF7A01.asc))**
 
 ```text
 E055 D0EB E50D 4BFD 08D7 1E0D C6BC 2669 CFAF 7A01
-```
-
-**Importing**
-
-```sh
-curl https://raw.githubusercontent.com/pxgamer/gpg/master/E055D0EBE50D4BFD08D71E0DC6BC2669CFAF7A01.asc | gpg --import
 ```
 
 -----------------------
