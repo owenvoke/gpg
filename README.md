@@ -8,7 +8,7 @@ The repository for my GPG public keys.
 
 ## PGP Public Key (ECC)
 
-([Raw .asc file](0F7BA063.asc))
+([Raw .asc file](F6F9165CA58F8FD42470BDFA8F15E14C0F7BA063.asc))
 
 ```asciiarmor
 -----BEGIN PGP PUBLIC KEY BLOCK-----
@@ -40,7 +40,7 @@ F6F9 165C A58F 8FD4 2470 BDFA 8F15 E14C 0F7B A063
 ### Importing
 
 ```sh
-curl https://raw.githubusercontent.com/pxgamer/gpg/master/0F7BA063.asc | gpg --import
+curl https://raw.githubusercontent.com/pxgamer/gpg/master/F6F9165CA58F8FD42470BDFA8F15E14C0F7BA063.asc | gpg --import
 ```
 
 -----------------------
@@ -49,7 +49,7 @@ curl https://raw.githubusercontent.com/pxgamer/gpg/master/0F7BA063.asc | gpg --i
 
 ### PGP Public Key (RSA)
 
-([Raw .asc file](CFAF7A01.asc))
+([Raw .asc file](E055D0EBE50D4BFD08D71E0DC6BC2669CFAF7A01.asc))
 
 **PGP Fingerprint (RSA)**
 
@@ -60,7 +60,7 @@ E055 D0EB E50D 4BFD 08D7 1E0D C6BC 2669 CFAF 7A01
 **Importing**
 
 ```sh
-curl https://raw.githubusercontent.com/pxgamer/gpg/master/CFAF7A01.asc | gpg --import
+curl https://raw.githubusercontent.com/pxgamer/gpg/master/E055D0EBE50D4BFD08D71E0DC6BC2669CFAF7A01.asc | gpg --import
 ```
 
 -----------------------
