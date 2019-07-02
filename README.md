@@ -39,7 +39,7 @@ ZMv9AQC3Bc+6KNczsZ1ZBOMEnYdOOOmIH9+2eyTBr8C48hNpywEA5DBbwJbus60A
 
 ```
 
-### PGP Fingerprint (ECC)
+### PGP Fingerprint
 
 ```text
 D899 3327 B12E 5FBF 1F3E B6B9 B6A9 2A86 D7A4 6D64
