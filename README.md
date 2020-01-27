@@ -50,7 +50,7 @@ D899 3327 B12E 5FBF 1F3E B6B9 B6A9 2A86 D7A4 6D64
 ### Importing
 
 ```sh
-curl https://raw.githubusercontent.com/pxgamer/gpg/master/D8993327B12E5FBF1F3EB6B9B6A92A86D7A46D64.asc | gpg --import
+curl https://gpg.voke.dev/D8993327B12E5FBF1F3EB6B9B6A92A86D7A46D64.asc | gpg --import
 ```
 
 -----------------------
