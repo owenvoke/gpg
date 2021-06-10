@@ -1,8 +1,8 @@
-# gpg
+# GPG Keys
 
 [![Keybase](https://img.shields.io/badge/keybase-@pxgamer-4c8eff.svg?style=flat-square)](https://keybase.io/pxgamer)
 
-GPG public key storage for Owen Voke (pxgamer).
+GPG public key storage for Owen Voke ([`@owenvoke`](https://github.com/owenvoke) / `@pxgamer`).
 
 -----------------------
 
